@@ -5,9 +5,7 @@
 ---
 
 # 🧠 About Me
-🚀 Generative AI Engineer passionate about building intelligent real-time systems that solve real-world problems.  
-⚡ I specialize in **LLMs, speech intelligence, and applied machine learning systems**.  
-🎯 Currently focused on building scalable AI pipelines.
+Generative AI Engineer specializing in LLM optimization, retrieval-augmented systems, and production-grade AI architectures.
 
 ---
 

@@ -1,59 +1,96 @@
-# 👋 Hi, I'm Jagadeeswar
-
-🚀 **GenAI Developer building real-time AI systems using LLMs, speech models, and computer vision.**
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=JagadeeswarDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JagadeeswarDeveloper&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeswarDeveloper&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jagadeeswar;Generative+AI+Engineer;Building+Real-Time+AI+Systems;LLMs+%7C+Speech+AI+%7C+Computer+Vision" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
-- 🔹 Real-Time Emotion Detection System (Speech + AI)
-- 🔹 ASL Detection Model (Computer Vision)
-- 🔹 Project Drishti – AI Event Safety System
-- 🔹 RAG-based LLM Application
+# 🧠 About Me
+🚀 Generative AI Engineer passionate about building intelligent real-time systems that solve real-world problems.  
+⚡ I specialize in **LLMs, speech intelligence, and applied machine learning systems**.  
+🎯 Currently focused on building scalable AI pipelines.
 
 ---
 
-# 💻 Tech Stack
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JagadeeswarDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=JagadeeswarDeveloper&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeswarDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ⚙ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,sql" />
+</p>
+<p>Python • Java • SQL</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+<p>PyTorch • TensorFlow • Transformers • Scikit-Learn • OpenCV</p>
+
+---
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+<p>FastAPI • Flask</p>
 
 ---
 
 ### 📊 Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+<p>NumPy • Pandas</p>
 
 ---
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,githubactions" />
+</p>
+<p>Git • Docker • Linux • GitHub Actions</p>
+---
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JagadeeswarDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎯 Specializations
+**Generative AI Systems** • **Retrieval-Augmented Generation** • **Real-Time AI Pipelines**  
+**Speech Intelligence** • **LLM Applications** • **Model Deployment**
+
+---
+
+## 🧩 Current Focus
+- Building real-time AI systems  
+- Developing intelligent assistants  
+- Designing production-ready ML pipelines  
+
+
+
+---
+
+## 🌐 Connect With Me
+📧 contact.jagadeeshwar@gmail.com
+💼 https://www.linkedin.com/in/jagadeeswar-v-3a3049252/ 
+
+---
+
+<p align="center">
+⭐ Engineering AI that doesn’t just run — it performs.
+</p>
